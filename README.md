@@ -27,7 +27,7 @@ A comprehensive PySide6 desktop application for analyzing resume keywords agains
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/easyapply.git
+git clone https://github.com/KelvinxG/easyapply.git
 cd easyapply
 ```
 
@@ -284,7 +284,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/easyapply/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/easyapply/discussions)
-- **Email**: support@easyapply.com
+- **Email**: tearteamoguy@gmail.com // right now it is a personal email
 
 ## 🔄 Version History
 
