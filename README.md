@@ -27,7 +27,7 @@ A comprehensive PySide6 desktop application for analyzing resume keywords agains
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/easyapply.git
+git clone https://github.com/KelvinxG/easyapply.git
 cd easyapply
 ```
 
