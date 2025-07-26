@@ -17,7 +17,7 @@ from PySide6.QtWidgets import (
     QGraphicsEllipseItem, QGraphicsRectItem, QGraphicsLineItem
 )
 from PySide6.QtCore import (
-    Qt, QSignal, QSize, QRect, QPoint, QPropertyAnimation,
+    Qt, Signal, QSize, QRect, QPoint, QPropertyAnimation,
     QEasingCurve, QTimer
 )
 from PySide6.QtGui import (
@@ -32,7 +32,7 @@ from src.utils.logger import get_logger
 class FileUploadWidget(QWidget):
     """Custom file upload widget with drag and drop support."""
     
-    file_selected = QSignal(str)
+    file_selected = Signal(str)
     
     def __init__(self):
         super().__init__()
